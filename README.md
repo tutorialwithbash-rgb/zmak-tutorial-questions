@@ -4,15 +4,15 @@ A lightweight static site for viewing and downloading the SS2 and SS3 past-quest
 
 ## Pages
 
-- Home: `https://YOUR-USERNAME.github.io/zmak-passq/`
-- SS2: `https://YOUR-USERNAME.github.io/zmak-passq/ss2`
-- SS3: `https://YOUR-USERNAME.github.io/zmak-passq/ss3`
+- Home: `https://YOUR-USERNAME.github.io/zmak-tutorial-questions/`
+- SS2: `https://YOUR-USERNAME.github.io/zmak-tutorial-questions/ss2`
+- SS3: `https://YOUR-USERNAME.github.io/zmak-tutorial-questions/ss3`
 
 Replace `YOUR-USERNAME` with your GitHub username. The site uses GitHub Pages project-site paths and does not require a build step.
 
 ## Publish with GitHub Pages
 
-1. Push this repository to GitHub as `zmak-passq`.
+1. Push this repository to GitHub as `zmak-tutorial-questions`.
 2. Open the repository **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**.
 4. Select the `main` branch and `/ (root)`, then save.
