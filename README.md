@@ -1,12 +1,16 @@
 # SS2 & SS3 Tutorial Questions
 
-A lightweight static site for viewing and downloading the SS2 and SS3 past-question PDFs.
+A lightweight static site for viewing and downloading tutorial-question PDFs for SS1, SS2, and SS3.
 
 ## Pages
 
 - Home: <https://tutorialwithbash-rgb.github.io/zmak-tutorial-questions/>
+- SS1: <https://tutorialwithbash-rgb.github.io/zmak-tutorial-questions/ss1/>
+- SS1 solutions: <https://tutorialwithbash-rgb.github.io/zmak-tutorial-questions/ss1/solution/>
 - SS2: <https://tutorialwithbash-rgb.github.io/zmak-tutorial-questions/ss2/>
+- SS2 solutions: <https://tutorialwithbash-rgb.github.io/zmak-tutorial-questions/ss2/solution/>
 - SS3: <https://tutorialwithbash-rgb.github.io/zmak-tutorial-questions/ss3/>
+- SS3 solutions: <https://tutorialwithbash-rgb.github.io/zmak-tutorial-questions/ss3/solutions/>
 
 The site uses GitHub Pages project-site paths and does not require a build step.
 
@@ -19,4 +23,4 @@ The site uses GitHub Pages project-site paths and does not require a build step.
 
 The workflow deploys the site automatically whenever `main` is updated. The first deployment may take a few minutes.
 
-The PDFs are stored in `pdf/`. To replace a paper, keep its existing filename (`ss2.pdf` or `ss3.pdf`) so the viewer and download links continue to work.
+SS1 questions and solutions are linked from Google Drive. Set their sharing permissions in Drive; the public GitHub Pages route itself is not access-controlled. SS2 and SS3 PDFs are stored in `pdf/` as `ss2.pdf`, `ss3.pdf`, `SS2 Physics Tutorial Questions Solutions.pdf`, and `SS3 Physics Tutorial Questions Solutions.pdf`.
